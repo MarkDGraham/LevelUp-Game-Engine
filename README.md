@@ -57,14 +57,14 @@ make
 ## 📂 Project Structure
 
 LevelUp-Game-Engine/ <br>
-│<br>
+ │<br>
 ├── docs/              # Documentation and diagrams<br>
 ├── engine/            # Core engine modules<br>
-│   ├── rendering/<br>
-│   ├── physics/<br>
-│   ├── input/<br>
-│   ├── audio/<br>
-│   └── ui/<br>
+ │   ├── rendering/<br>
+ │   ├── physics/<br>
+ │   ├── input/<br>
+ │   ├── audio/<br>
+ │   └── ui/<br>
 ├── examples/          # Demo games showcasing engine features<br>
 ├── tests/             # Unit and integration tests<br>
 ├── tools/             # GUIs, executables, utilities<br>
